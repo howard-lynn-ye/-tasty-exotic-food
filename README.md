@@ -1,8 +1,8 @@
 <p align="center">
-  <h1 align="center">留学生饮食指南<br><sub>在美国复刻中国菜 | Chinese Recipes Recreated in America</sub></h1>
+  <h1 align="center">Tasty Exotic Food<br><sub>Easy Recipes Recreated with American Supermarket Ingredients</sub></h1>
   <p align="center">
-    <em>想家的时候，就自己做一顿吧</em><br>
-    <em>When you miss home, cook yourself a taste of it.</em>
+    <em>留学生饮食指南 — 想家的时候，就自己做一顿吧</em><br>
+    <em>International Student Food Guide — When you miss home, cook yourself a taste of it.</em>
   </p>
 </p>
 
@@ -12,7 +12,8 @@
   <a href="#家常菜--home-style"><img src="https://img.shields.io/badge/家常菜-Home Style-green?style=for-the-badge" alt="Home Style"></a>
   <a href="#一锅出--one-pot-meals"><img src="https://img.shields.io/badge/一锅出-One Pot-purple?style=for-the-badge" alt="One Pot"></a>
   <a href="#快手菜--quick-meals"><img src="https://img.shields.io/badge/快手菜-Quick-yellow?style=for-the-badge" alt="Quick"></a>
-  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-23-brightgreen?style=for-the-badge" alt="Recipes"></a>
+  <a href="#国际料理--global-cuisine"><img src="https://img.shields.io/badge/国际料理-Global-pink?style=for-the-badge" alt="Global"></a>
+  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-28-brightgreen?style=for-the-badge" alt="Recipes"></a>
   <a href="guides/american-substitutions.md"><img src="https://img.shields.io/badge/🇺🇸-超市采购指南-blue?style=for-the-badge" alt="US Guide"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"></a>
 </p>
@@ -238,6 +239,50 @@
 
 ---
 
+## 国际料理 | Global Cuisine
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="recipes/global/日式牛丼.md">
+        <img src="images/global/gyudon.jpg" width="180" alt="日式牛丼"><br>
+        <b>日式牛丼</b><br>
+        <sub>Gyudon (Japan)</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="recipes/global/韩式部队锅.md">
+        <img src="images/global/budae-jjigae.jpg" width="180" alt="韩式部队锅"><br>
+        <b>韩式部队锅</b><br>
+        <sub>Budae Jjigae (Korea)</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="recipes/global/意式番茄肉酱面.md">
+        <img src="images/global/bolognese.jpg" width="180" alt="意式番茄肉酱面"><br>
+        <b>意式肉酱面</b><br>
+        <sub>Bolognese (Italy)</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="recipes/global/泰式炒河粉.md">
+        <img src="images/global/pad-thai.jpg" width="180" alt="泰式炒河粉"><br>
+        <b>泰式炒河粉</b><br>
+        <sub>Pad Thai (Thailand)</sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="recipes/global/墨西哥鸡肉卷.md">
+        <img src="images/global/burrito-bowl.jpg" width="180" alt="墨西哥鸡肉卷"><br>
+        <b>墨西哥鸡肉卷</b><br>
+        <sub>Burrito Bowl (Mexico)</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 家常菜 | Home-Style
 
 <table>
@@ -310,6 +355,16 @@
 | 可乐鸡翅 | Cola Chicken Wings | ⭐ | [查看 / View](recipes/quick/可乐鸡翅.md) |
 | 凉拌黄瓜 | Smashed Cucumber Salad | ⭐ | [查看 / View](recipes/quick/凉拌黄瓜.md) |
 
+### 国际料理 | Global Cuisine
+
+| 菜名 | Dish | 国家 / Origin | 难度 / Difficulty | 菜谱 / Recipe |
+|------|------|-------------|-------------------|---------------|
+| 日式牛丼 | Gyudon | 日本 Japan | ⭐ | [查看 / View](recipes/global/日式牛丼.md) |
+| 韩式部队锅 | Budae Jjigae | 韩国 Korea | ⭐ | [查看 / View](recipes/global/韩式部队锅.md) |
+| 意式番茄肉酱面 | Spaghetti Bolognese | 意大利 Italy | ⭐ | [查看 / View](recipes/global/意式番茄肉酱面.md) |
+| 泰式炒河粉 | Pad Thai | 泰国 Thailand | ⭐⭐ | [查看 / View](recipes/global/泰式炒河粉.md) |
+| 墨西哥鸡肉卷 | Burrito Bowl | 墨西哥 Mexico | ⭐ | [查看 / View](recipes/global/墨西哥鸡肉卷.md) |
+
 ### 家常菜 | Home-Style
 
 | 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
@@ -328,7 +383,8 @@
 
 | 指南 / Guide | 说明 / Description | 链接 / Link |
 |-------------|-------------------|-------------|
-| 美国超市采购指南 / American Supermarket Shopping Guide | Trader Joe's、Costco、Walmart 等各超市食材清单 / Store-by-store ingredient lists | [查看 / View](guides/american-substitutions.md) |
+| 美国超市采购指南 / Supermarket Shopping Guide | Trader Joe's、Costco、Walmart 等各超市食材清单 / Store-by-store ingredient lists | [查看 / View](guides/american-substitutions.md) |
+| 厨房装备指南 / Kitchen Equipment Guide | 必买清单、工具替代、宿舍党指南 / Must-haves, tool substitutes, dorm cooking tips | [查看 / View](guides/kitchen-tools.md) |
 
 > 详细列出 **Trader Joe's、Target、Whole Foods、Costco、Walmart** 各超市能买到的中国菜食材，亚洲超市必买清单，以及 Amazon/Weee!/Yami 网购推荐。附新手一次采购清单。
 >
@@ -343,17 +399,20 @@ Hangzhoucai/
 ├── README.md
 ├── LICENSE
 ├── guides/
-│   └── american-substitutions.md   # 超市采购指南 / Shopping guide
+│   ├── american-substitutions.md   # 超市采购指南 / Shopping guide
+│   └── kitchen-tools.md           # 厨房装备指南 / Kitchen equipment guide
 ├── images/
 │   ├── classics/                   # 经典菜品图片 / Classic dish photos
 │   ├── one-pot/                    # 一锅出图片 / One-pot photos
 │   ├── quick/                      # 快手菜图片 / Quick meal photos
+│   ├── global/                     # 国际料理图片 / Global cuisine photos
 │   ├── snacks/                     # 小吃图片 / Snack photos
 │   └── home-style/                 # 家常菜图片 / Home-style photos
 └── recipes/
     ├── classics/                   # 经典名菜 / Classic dishes (7)
     ├── one-pot/                    # 一锅出 / One-pot meals (4)
     ├── quick/                      # 快手菜 / Quick meals (6)
+    ├── global/                     # 国际料理 / Global cuisine (5)
     ├── home-style/                 # 家常菜 / Home-style dishes (3)
     └── snacks/                     # 小吃点心 / Snacks & dim sum (3)
 ```
