@@ -10,7 +10,9 @@
   <a href="#经典名菜--classic-dishes"><img src="https://img.shields.io/badge/经典名菜-Classics-red?style=for-the-badge" alt="Classics"></a>
   <a href="#小吃点心--snacks"><img src="https://img.shields.io/badge/小吃点心-Snacks-orange?style=for-the-badge" alt="Snacks"></a>
   <a href="#家常菜--home-style"><img src="https://img.shields.io/badge/家常菜-Home Style-green?style=for-the-badge" alt="Home Style"></a>
-  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-13-brightgreen?style=for-the-badge" alt="Recipes"></a>
+  <a href="#一锅出--one-pot-meals"><img src="https://img.shields.io/badge/一锅出-One Pot-purple?style=for-the-badge" alt="One Pot"></a>
+  <a href="#快手菜--quick-meals"><img src="https://img.shields.io/badge/快手菜-Quick-yellow?style=for-the-badge" alt="Quick"></a>
+  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-23-brightgreen?style=for-the-badge" alt="Recipes"></a>
   <a href="guides/american-substitutions.md"><img src="https://img.shields.io/badge/🇺🇸-超市采购指南-blue?style=for-the-badge" alt="US Guide"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"></a>
 </p>
@@ -21,15 +23,15 @@
 
 这是一份专为**在美留学生**准备的中国菜复刻指南。我们知道留学生活最难熬的不是 GPA，是想家时那口吃不到的味道。
 
-本项目以**杭州菜（浙菜）**为起点，收录经典名菜、街头小吃和家常菜，每道菜谱都包含：
+本项目收录**杭州经典菜、一锅出、快手菜**等多种类型，涵盖浙菜、川菜等多个菜系。每道菜谱都包含：
 
-- **中英双语**的详细步骤
-- **美国超市食材替代方案** — 告诉你在 Trader Joe's、Costco、Walmart、Target、Whole Foods 能买到什么
-- **新手友好**的难度标注和入门推荐
+- **中英双语**的详细步骤 | Bilingual step-by-step instructions
+- **美国超市食材替代方案** — Trader Joe's、Costco、Walmart、Target、Whole Foods | American supermarket substitution tips
+- **新手友好**的难度标注和入门推荐 | Beginner-friendly difficulty ratings
 
 *This is a Chinese cooking guide made for **international students in America**. We know the hardest part of studying abroad isn't the coursework — it's missing the flavors of home.*
 
-*Starting with **Hangzhou (Zhejiang) cuisine**, this project collects classic dishes, street snacks, and home-style recipes. Every recipe includes bilingual instructions, American supermarket substitution tips, and beginner-friendly guidance.*
+*This project covers **Hangzhou classics, one-pot meals, quick weeknight dishes**, and more — spanning Zhejiang, Sichuan, and beyond. Every recipe includes bilingual instructions, American supermarket tips, and beginner guidance.*
 
 > **为什么从杭州菜开始？** 杭帮菜以**清鲜、脆嫩、爽滑**著称，注重原汁原味，讲究时令食材，善用绍兴黄酒、西湖醋、龙井茶等本地特产入菜。历史可追溯至南宋时期，是浙江菜系的精华。
 >
@@ -46,9 +48,9 @@
 | 步骤 / Step | 做什么 / What to Do | 说明 / Description |
 |------------|--------------------|--------------------|
 | 1 | 读 [超市采购指南](guides/american-substitutions.md#新手推荐--where-to-start) / Read the [Shopping Guide](guides/american-substitutions.md#新手推荐--where-to-start) | 了解去哪家超市买什么，一次采购搞定 / Learn what to buy and where — one trip, done |
-| 2 | 先做 [糖醋排骨](recipes/home-style/糖醋排骨.md) 或 [杭州小炒](recipes/home-style/杭州小炒.md) / Start with [Sweet & Sour Ribs](recipes/home-style/糖醋排骨.md) or [Hangzhou Stir-fry](recipes/home-style/杭州小炒.md) | 食材最容易买到，步骤最简单 / Easiest ingredients to find, simplest steps |
-| 3 | 挑战 [东坡肉](recipes/classics/东坡肉.md) / Level up with [Dongpo Pork](recipes/classics/东坡肉.md) | Costco 买五花肉，一锅搞定，成就感满满 / Grab pork belly at Costco — one pot, big reward |
-| 4 | 探索更多菜谱 ↓ / Explore more recipes below ↓ | 慢慢解锁全部13道菜！ / Unlock all 13 dishes! |
+| 2 | 先做 [番茄炒蛋](recipes/quick/番茄炒蛋.md) 或 [蛋炒饭](recipes/quick/蛋炒饭.md) / Start with [Tomato Egg](recipes/quick/番茄炒蛋.md) or [Fried Rice](recipes/quick/蛋炒饭.md) | 3种食材，10分钟，零失败 / 3 ingredients, 10 min, zero chance of failure |
+| 3 | 试试 [番茄鸡蛋面](recipes/one-pot/番茄鸡蛋面.md) 或 [可乐鸡翅](recipes/quick/可乐鸡翅.md) / Try [Tomato Egg Noodles](recipes/one-pot/番茄鸡蛋面.md) or [Cola Wings](recipes/quick/可乐鸡翅.md) | 一锅出，暖胃又解馋 / One-pot comfort food |
+| 4 | 探索更多菜谱 ↓ / Explore more recipes below ↓ | 慢慢解锁全部23道菜！ / Unlock all 23 dishes! |
 
 ---
 
@@ -146,6 +148,96 @@
 
 ---
 
+## 一锅出 | One-Pot Meals
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="recipes/one-pot/番茄鸡蛋面.md">
+        <img src="images/one-pot/fanqie-jidan-mian.jpg" width="200" alt="番茄鸡蛋面"><br>
+        <b>番茄鸡蛋面</b><br>
+        <sub>Tomato Egg Noodle Soup</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="recipes/one-pot/咖喱鸡饭.md">
+        <img src="images/one-pot/gali-jifan.jpg" width="200" alt="咖喱鸡饭"><br>
+        <b>咖喱鸡饭</b><br>
+        <sub>Curry Chicken Rice</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="recipes/one-pot/酸辣汤.md">
+        <img src="images/one-pot/suanlatang.jpg" width="200" alt="酸辣汤"><br>
+        <b>酸辣汤</b><br>
+        <sub>Hot & Sour Soup</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="recipes/one-pot/红烧牛腩.md">
+        <img src="images/one-pot/hongshao-niunan.jpg" width="200" alt="红烧牛腩"><br>
+        <b>红烧牛腩</b><br>
+        <sub>Braised Beef Brisket</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 快手菜 | Quick Meals
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="recipes/quick/番茄炒蛋.md">
+        <img src="images/quick/fanqie-chaodan.jpg" width="280" alt="番茄炒蛋"><br>
+        <b>番茄炒蛋</b><br>
+        <sub>Tomato & Egg Stir-fry</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="recipes/quick/麻婆豆腐.md">
+        <img src="images/quick/mapo-doufu.jpg" width="280" alt="麻婆豆腐"><br>
+        <b>麻婆豆腐</b><br>
+        <sub>Mapo Tofu</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="recipes/quick/宫保鸡丁.md">
+        <img src="images/quick/gongbao-jiding.jpg" width="280" alt="宫保鸡丁"><br>
+        <b>宫保鸡丁</b><br>
+        <sub>Kung Pao Chicken</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="recipes/quick/蛋炒饭.md">
+        <img src="images/quick/dan-chaofan.jpg" width="280" alt="蛋炒饭"><br>
+        <b>蛋炒饭</b><br>
+        <sub>Egg Fried Rice</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="recipes/quick/可乐鸡翅.md">
+        <img src="images/quick/kele-jichi.jpg" width="280" alt="可乐鸡翅"><br>
+        <b>可乐鸡翅</b><br>
+        <sub>Cola Chicken Wings</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="recipes/quick/凉拌黄瓜.md">
+        <img src="images/quick/liangban-huanggua.jpg" width="280" alt="凉拌黄瓜"><br>
+        <b>凉拌黄瓜</b><br>
+        <sub>Smashed Cucumber Salad</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 家常菜 | Home-Style
 
 <table>
@@ -198,6 +290,26 @@
 | 片儿川 | Pian'er Chuan Noodles | ⭐⭐ | [查看 / View](recipes/snacks/片儿川.md) |
 | 葱包桧 | Scallion Pancake Rolls | ⭐⭐ | [查看 / View](recipes/snacks/葱包桧.md) |
 
+### 一锅出 | One-Pot Meals
+
+| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
+|------|------|-------------------|---------------|
+| 番茄鸡蛋面 | Tomato Egg Noodle Soup | ⭐ | [查看 / View](recipes/one-pot/番茄鸡蛋面.md) |
+| 咖喱鸡饭 | Curry Chicken Rice | ⭐ | [查看 / View](recipes/one-pot/咖喱鸡饭.md) |
+| 酸辣汤 | Hot & Sour Soup | ⭐ | [查看 / View](recipes/one-pot/酸辣汤.md) |
+| 红烧牛腩 | Braised Beef Brisket | ⭐⭐ | [查看 / View](recipes/one-pot/红烧牛腩.md) |
+
+### 快手菜 | Quick Meals
+
+| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
+|------|------|-------------------|---------------|
+| 番茄炒蛋 | Tomato & Egg Stir-fry | ⭐ | [查看 / View](recipes/quick/番茄炒蛋.md) |
+| 麻婆豆腐 | Mapo Tofu | ⭐ | [查看 / View](recipes/quick/麻婆豆腐.md) |
+| 宫保鸡丁 | Kung Pao Chicken | ⭐ | [查看 / View](recipes/quick/宫保鸡丁.md) |
+| 蛋炒饭 | Egg Fried Rice | ⭐ | [查看 / View](recipes/quick/蛋炒饭.md) |
+| 可乐鸡翅 | Cola Chicken Wings | ⭐ | [查看 / View](recipes/quick/可乐鸡翅.md) |
+| 凉拌黄瓜 | Smashed Cucumber Salad | ⭐ | [查看 / View](recipes/quick/凉拌黄瓜.md) |
+
 ### 家常菜 | Home-Style
 
 | 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
@@ -234,10 +346,14 @@ Hangzhoucai/
 │   └── american-substitutions.md   # 超市采购指南 / Shopping guide
 ├── images/
 │   ├── classics/                   # 经典菜品图片 / Classic dish photos
+│   ├── one-pot/                    # 一锅出图片 / One-pot photos
+│   ├── quick/                      # 快手菜图片 / Quick meal photos
 │   ├── snacks/                     # 小吃图片 / Snack photos
 │   └── home-style/                 # 家常菜图片 / Home-style photos
 └── recipes/
     ├── classics/                   # 经典名菜 / Classic dishes (7)
+    ├── one-pot/                    # 一锅出 / One-pot meals (4)
+    ├── quick/                      # 快手菜 / Quick meals (6)
     ├── home-style/                 # 家常菜 / Home-style dishes (3)
     └── snacks/                     # 小吃点心 / Snacks & dim sum (3)
 ```
