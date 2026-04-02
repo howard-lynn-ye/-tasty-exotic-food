@@ -256,6 +256,27 @@ Walmart 品类全、价格低，基础调料齐全：
 | [油焖春笋](../recipes/home-style/油焖春笋.md) | Braised Bamboo Shoots | 春笋 → 罐装竹笋 | ⭐ |
 | [糖醋排骨](../recipes/home-style/糖醋排骨.md) | Sweet & Sour Ribs | 香醋 → 亚洲超市 | ⭐ |
 | [杭州小炒](../recipes/home-style/杭州小炒.md) | Hangzhou Stir-fry | 冬笋 → 罐装竹笋 | ⭐ |
+| | | | |
+| **一锅出 / One-Pot** | | | |
+| [番茄鸡蛋面](../recipes/one-pot/番茄鸡蛋面.md) | Tomato Egg Noodles | 无特殊食材 / None | ⭐ |
+| [咖喱鸡饭](../recipes/one-pot/咖喱鸡饭.md) | Curry Chicken Rice | 咖喱块 → Target/Walmart | ⭐ |
+| [酸辣汤](../recipes/one-pot/酸辣汤.md) | Hot & Sour Soup | 木耳 → 可省略 | ⭐ |
+| [红烧牛腩](../recipes/one-pot/红烧牛腩.md) | Braised Beef Brisket | 牛腩 → Costco beef chuck | ⭐ |
+| | | | |
+| **快手菜 / Quick Meals** | | | |
+| [番茄炒蛋](../recipes/quick/番茄炒蛋.md) | Tomato & Egg | 无特殊食材 / None | ⭐ |
+| [麻婆豆腐](../recipes/quick/麻婆豆腐.md) | Mapo Tofu | 豆瓣酱 → 亚洲超市/Amazon | ⭐ |
+| [宫保鸡丁](../recipes/quick/宫保鸡丁.md) | Kung Pao Chicken | 干辣椒 → 亚洲超市 | ⭐ |
+| [蛋炒饭](../recipes/quick/蛋炒饭.md) | Egg Fried Rice | 无特殊食材 / None | ⭐ |
+| [可乐鸡翅](../recipes/quick/可乐鸡翅.md) | Cola Chicken Wings | 无特殊食材 / None | ⭐ |
+| [凉拌黄瓜](../recipes/quick/凉拌黄瓜.md) | Smashed Cucumber | 无特殊食材 / None | ⭐ |
+| | | | |
+| **国际料理 / Global** | | | |
+| [日式牛丼](../recipes/global/日式牛丼.md) | Gyudon | 味醂 → 亚洲超市/Amazon | ⭐ |
+| [韩式部队锅](../recipes/global/韩式部队锅.md) | Budae Jjigae | Gochujang → Walmart/Target | ⭐ |
+| [意式肉酱面](../recipes/global/意式番茄肉酱面.md) | Spaghetti Bolognese | 无特殊食材 / None | ⭐ |
+| [泰式炒河粉](../recipes/global/泰式炒河粉.md) | Pad Thai | 鱼露 → Walmart/亚洲超市 | ⭐⭐ |
+| [墨西哥鸡肉卷](../recipes/global/墨西哥鸡肉卷.md) | Burrito Bowl | 无特殊食材 / None | ⭐ |
 
 > ⭐ = 主流超市基本可解决 | Mostly available at mainstream stores
 > ⭐⭐ = 需要亚洲超市或网购 | Requires Asian market or online order
