@@ -1,26 +1,31 @@
 <p align="center">
-  <h1 align="center">Tasty Exotic Food<br><sub>Easy Recipes Recreated with American Supermarket Ingredients</sub></h1>
+  <h1 align="center">Tasty Exotic Food<br><sub>5000 Years of Food History × AI Flavor Science × American Supermarket Ingredients</sub></h1>
   <p align="center">
-    <em>留学生饮食指南 — 想家的时候，就自己做一顿吧</em><br>
-    <em>International Student Food Guide — When you miss home, cook yourself a taste of it.</em>
+    <em>518道菜谱 · 11个分类 · 50+个文明 · 5000年历史 · 233道AI原创</em><br>
+    <em>518 Recipes · 11 Categories · 50+ Civilizations · 5000 Years · 233 AI Originals</em>
   </p>
 </p>
 
 <p align="center">
-  <a href="#经典名菜--classic-dishes"><img src="https://img.shields.io/badge/经典名菜-Classics-red?style=for-the-badge" alt="Classics"></a>
-  <a href="#小吃点心--snacks"><img src="https://img.shields.io/badge/小吃点心-Snacks-orange?style=for-the-badge" alt="Snacks"></a>
-  <a href="#家常菜--home-style"><img src="https://img.shields.io/badge/家常菜-Home Style-green?style=for-the-badge" alt="Home Style"></a>
-  <a href="#一锅出--one-pot-meals"><img src="https://img.shields.io/badge/一锅出-One Pot-purple?style=for-the-badge" alt="One Pot"></a>
-  <a href="#快手菜--quick-meals"><img src="https://img.shields.io/badge/快手菜-Quick-yellow?style=for-the-badge" alt="Quick"></a>
-  <a href="#国际料理--global-cuisine"><img src="https://img.shields.io/badge/国际料理-Global-pink?style=for-the-badge" alt="Global"></a>
-  <a href="#素食--vegetarian"><img src="https://img.shields.io/badge/素食-Veggie-lightgreen?style=for-the-badge" alt="Vegetarian"></a>
-  <a href="#甜品--desserts"><img src="https://img.shields.io/badge/甜品-Desserts-hotpink?style=for-the-badge" alt="Desserts"></a>
-  <a href="#早餐--breakfast"><img src="https://img.shields.io/badge/早餐-Breakfast-gold?style=for-the-badge" alt="Breakfast"></a>
-  <a href="#创意融合--fusion"><img src="https://img.shields.io/badge/🤖 AI原创-Fusion-blueviolet?style=for-the-badge" alt="Fusion"></a>
-  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-518-brightgreen?style=for-the-badge" alt="Recipes"></a>
-  <a href="guides/american-substitutions.md"><img src="https://img.shields.io/badge/🇺🇸-超市采购指南-blue?style=for-the-badge" alt="US Guide"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"></a>
+  <a href="recipes/ancient/README.md"><img src="https://img.shields.io/badge/🏛️ 古代名菜-217道-brown?style=for-the-badge" alt="Ancient"></a>
+  <a href="recipes/fusion/README.md"><img src="https://img.shields.io/badge/🤖 AI原创-233道-blueviolet?style=for-the-badge" alt="Fusion"></a>
+  <a href="recipes/INDEX.md"><img src="https://img.shields.io/badge/📖 全部菜谱-518道-brightgreen?style=for-the-badge" alt="All Recipes"></a>
+  <a href="guides/flavor-science.md"><img src="https://img.shields.io/badge/🧪 风味科学-Guide-orange?style=for-the-badge" alt="Flavor Science"></a>
+  <a href="guides/american-substitutions.md"><img src="https://img.shields.io/badge/🇺🇸 超市指南-Guide-blue?style=for-the-badge" alt="US Guide"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" alt="License"></a>
 </p>
+
+---
+
+## 为什么这个项目独特 | What Makes This Unique
+
+| | 特色 | Feature |
+|--|------|---------|
+| 🏛️ | **217道古代名菜** — 从古埃及(2000BC)到拿破仑(1800AD)，跨越50+个文明 | **217 Ancient Recipes** — From Ancient Egypt to Napoleon, spanning 50+ civilizations |
+| 🤖 | **233道AI原创菜** — Claude AI用风味科学设计，每道附分子级解析 | **233 AI-Original Recipes** — Designed by Claude AI with molecular-level flavor science |
+| 🇺🇸 | **每道菜都有美国超市替代方案** — Trader Joe's, Costco, Walmart, Target 具体到品牌 | **Every recipe has US supermarket substitutions** — brand-specific for TJ's, Costco, Walmart |
+| 🌍 | **中英双语** — 每个字都有对照翻译 | **Fully bilingual** — Chinese/English throughout |
+| 📊 | **6份实用指南** — 超市采购、厨房装备、meal plan、购物清单、风味科学、5000年时间线 | **6 practical guides** — shopping, equipment, meal plans, flavor science, food timeline |
 
 ---
 
@@ -462,11 +467,14 @@
 
 | 指南 / Guide | 说明 / Description | 链接 / Link |
 |-------------|-------------------|-------------|
-| 美国超市采购指南 / Supermarket Shopping Guide | 各超市食材清单 / Store-by-store ingredient lists | [查看 / View](guides/american-substitutions.md) |
-| 厨房装备指南 / Kitchen Equipment Guide | 必买清单、工具替代、宿舍党指南 / Must-haves, tools, dorm tips | [查看 / View](guides/kitchen-tools.md) |
-| 一周饮食计划 / Weekly Meal Plans | 3个方案：忙碌周、Meal Prep、极限省钱 / 3 plans: busy, prep, ultra-budget | [查看 / View](guides/meal-plan.md) |
-| 万能购物清单 / Shopping Lists | 新手入门包、月度常备、Costco/TJ's 攻略 / Starter kit, monthly, store guides | [查看 / View](guides/shopping-list.md) |
-| 常见问题 / FAQ | 翻车急救、食材替代、工具选择 / Troubleshooting, substitutions, equipment | [查看 / View](FAQ.md) |
+| 🧪 风味科学 / Flavor Science | AI创菜原理、味觉搭配黄金法则 / AI recipe design methodology | [查看 / View](guides/flavor-science.md) |
+| 📜 5000年时间线 / Food Timeline | 从古埃及到AI时代的美食演变 / 5000 years of food history | [查看 / View](guides/ancient-food-timeline.md) |
+| 🇺🇸 超市采购 / Supermarket Guide | TJ's、Costco、Walmart 各超市食材 / Store-by-store lists | [查看 / View](guides/american-substitutions.md) |
+| 🔧 厨房装备 / Kitchen Equipment | 必买清单、工具替代、宿舍党 / Must-haves, dorm tips | [查看 / View](guides/kitchen-tools.md) |
+| 📅 一周计划 / Weekly Meal Plans | 忙碌周$25、Meal Prep、极限省钱$15 / 3 budget plans | [查看 / View](guides/meal-plan.md) |
+| 🛒 购物清单 / Shopping Lists | 新手入门包$30、月度常备 / Starter kit, monthly restock | [查看 / View](guides/shopping-list.md) |
+| ❓ 常见问题 / FAQ | 翻车急救、食材替代 / Troubleshooting, substitutions | [查看 / View](FAQ.md) |
+| 📖 全部菜谱索引 / Recipe Index | 518道菜完整目录 / Complete catalog of all 518 recipes | [查看 / View](recipes/INDEX.md) |
 
 > 详细列出 **Trader Joe's、Target、Whole Foods、Costco、Walmart** 各超市能买到的中国菜食材，亚洲超市必买清单，以及 Amazon/Weee!/Yami 网购推荐。附新手一次采购清单。
 >
@@ -477,32 +485,32 @@
 ## 目录结构 | Project Structure
 
 ```
-Hangzhoucai/
-├── README.md
+tasty-exotic-food/
+├── README.md                        # 项目主页
+├── CONTRIBUTING.md                  # 贡献指南
+├── FAQ.md                           # 常见问题
 ├── LICENSE
-├── guides/
-│   ├── american-substitutions.md   # 超市采购指南 / Shopping guide
-│   ├── kitchen-tools.md           # 厨房装备指南 / Kitchen equipment guide
-│   ├── meal-plan.md               # 一周饮食计划 / Weekly meal plans
-│   └── shopping-list.md           # 万能购物清单 / Shopping lists
-├── images/
-│   ├── classics/                   # 经典菜品图片 / Classic dish photos
-│   ├── one-pot/                    # 一锅出图片 / One-pot photos
-│   ├── quick/                      # 快手菜图片 / Quick meal photos
-│   ├── global/                     # 国际料理图片 / Global cuisine photos
-│   ├── snacks/                     # 小吃图片 / Snack photos
-│   └── home-style/                 # 家常菜图片 / Home-style photos
-└── recipes/
-    ├── classics/                   # 经典名菜 / Classic dishes (7)
-    ├── one-pot/                    # 一锅出 / One-pot meals (4)
-    ├── quick/                      # 快手菜 / Quick meals (6)
-    ├── global/                     # 国际料理 / Global cuisine (5)
-    ├── home-style/                 # 家常菜 / Home-style dishes (3)
-    ├── fusion/                     # 创意融合 / AI Fusion (5)
-    ├── vegetarian/                 # 素食 / Vegetarian (3)
-    ├── desserts/                   # 甜品 / Desserts (3)
-    ├── breakfast/                  # 早餐 / Breakfast (3)
-    └── snacks/                     # 小吃点心 / Snacks & dim sum (3)
+├── .github/ISSUE_TEMPLATE/          # Issue 模板
+├── guides/                          # 6份实用指南
+│   ├── flavor-science.md            # 🧪 风味科学
+│   ├── ancient-food-timeline.md     # 📜 5000年时间线
+│   ├── american-substitutions.md    # 🇺🇸 超市采购
+│   ├── kitchen-tools.md             # 🔧 厨房装备
+│   ├── meal-plan.md                 # 📅 一周计划
+│   └── shopping-list.md             # 🛒 购物清单
+└── recipes/                         # 518道菜谱
+    ├── INDEX.md                     # 📖 全部索引
+    ├── ancient/    (217)            # 🏛️ 古代名菜
+    ├── fusion/     (233)            # 🤖 AI原创融合
+    ├── classics/   (7)              # ⭐ 经典名菜
+    ├── global/     (14)             # 🌍 国际料理
+    ├── quick/      (12)             # ⚡ 快手菜
+    ├── one-pot/    (7)              # 🍲 一锅出
+    ├── home-style/ (7)              # 🏠 家常菜
+    ├── snacks/     (6)              # 🥟 小吃点心
+    ├── vegetarian/ (5)              # 🥦 素食
+    ├── desserts/   (5)              # 🍰 甜品
+    └── breakfast/  (5)              # 🌅 早餐
 ```
 
 ---
