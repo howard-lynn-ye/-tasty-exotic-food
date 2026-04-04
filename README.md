@@ -13,7 +13,10 @@
   <a href="#一锅出--one-pot-meals"><img src="https://img.shields.io/badge/一锅出-One Pot-purple?style=for-the-badge" alt="One Pot"></a>
   <a href="#快手菜--quick-meals"><img src="https://img.shields.io/badge/快手菜-Quick-yellow?style=for-the-badge" alt="Quick"></a>
   <a href="#国际料理--global-cuisine"><img src="https://img.shields.io/badge/国际料理-Global-pink?style=for-the-badge" alt="Global"></a>
-  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-28-brightgreen?style=for-the-badge" alt="Recipes"></a>
+  <a href="#素食--vegetarian"><img src="https://img.shields.io/badge/素食-Veggie-lightgreen?style=for-the-badge" alt="Vegetarian"></a>
+  <a href="#甜品--desserts"><img src="https://img.shields.io/badge/甜品-Desserts-hotpink?style=for-the-badge" alt="Desserts"></a>
+  <a href="#早餐--breakfast"><img src="https://img.shields.io/badge/早餐-Breakfast-gold?style=for-the-badge" alt="Breakfast"></a>
+  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-37-brightgreen?style=for-the-badge" alt="Recipes"></a>
   <a href="guides/american-substitutions.md"><img src="https://img.shields.io/badge/🇺🇸-超市采购指南-blue?style=for-the-badge" alt="US Guide"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"></a>
 </p>
@@ -51,7 +54,7 @@
 | 1 | 读 [超市采购指南](guides/american-substitutions.md#新手推荐--where-to-start) / Read the [Shopping Guide](guides/american-substitutions.md#新手推荐--where-to-start) | 了解去哪家超市买什么，一次采购搞定 / Learn what to buy and where — one trip, done |
 | 2 | 先做 [番茄炒蛋](recipes/quick/番茄炒蛋.md) 或 [蛋炒饭](recipes/quick/蛋炒饭.md) / Start with [Tomato Egg](recipes/quick/番茄炒蛋.md) or [Fried Rice](recipes/quick/蛋炒饭.md) | 3种食材，10分钟，零失败 / 3 ingredients, 10 min, zero chance of failure |
 | 3 | 试试 [番茄鸡蛋面](recipes/one-pot/番茄鸡蛋面.md) 或 [可乐鸡翅](recipes/quick/可乐鸡翅.md) / Try [Tomato Egg Noodles](recipes/one-pot/番茄鸡蛋面.md) or [Cola Wings](recipes/quick/可乐鸡翅.md) | 一锅出，暖胃又解馋 / One-pot comfort food |
-| 4 | 探索更多菜谱 ↓ / Explore more recipes below ↓ | 慢慢解锁全部23道菜！ / Unlock all 23 dishes! |
+| 4 | 探索更多菜谱 ↓ / Explore more recipes below ↓ | 慢慢解锁全部37道菜！ / Unlock all 37 dishes! |
 
 ---
 
@@ -313,6 +316,36 @@
 
 ---
 
+## 素食 | Vegetarian
+
+| 菜名 | Dish | 时间 | 菜谱 / Recipe |
+|------|------|------|---------------|
+| 地三鲜 | Di San Xian | 25min | [查看 / View](recipes/vegetarian/地三鲜.md) |
+| 蒜蓉西兰花 | Garlic Broccoli | 10min | [查看 / View](recipes/vegetarian/蒜蓉西兰花.md) |
+| 皮蛋豆腐 | Century Egg Tofu | 5min | [查看 / View](recipes/vegetarian/皮蛋豆腐.md) |
+
+---
+
+## 甜品 | Desserts
+
+| 菜名 | Dish | 时间 | 菜谱 / Recipe |
+|------|------|------|---------------|
+| 芒果糯米饭 | Mango Sticky Rice | 35min | [查看 / View](recipes/desserts/芒果糯米饭.md) |
+| 红豆汤 | Red Bean Soup | 60min | [查看 / View](recipes/desserts/红豆汤.md) |
+| 鸡蛋布丁 | Egg Pudding | 20min | [查看 / View](recipes/desserts/鸡蛋布丁.md) |
+
+---
+
+## 早餐 | Breakfast
+
+| 菜名 | Dish | 时间 | 菜谱 / Recipe |
+|------|------|------|---------------|
+| 皮蛋瘦肉粥 | Century Egg Congee | 45min | [查看 / View](recipes/breakfast/皮蛋瘦肉粥.md) |
+| 鸡蛋饼 | Chinese Egg Pancake | 8min | [查看 / View](recipes/breakfast/鸡蛋饼.md) |
+| 法式吐司 | French Toast | 8min | [查看 / View](recipes/breakfast/法式吐司.md) |
+
+---
+
 ## 完整菜单 | Full Menu
 
 ### 经典名菜 | Classics
@@ -373,6 +406,30 @@
 | 糖醋排骨 | Sweet & Sour Spare Ribs | ⭐ | [查看 / View](recipes/home-style/糖醋排骨.md) |
 | 杭州小炒 | Hangzhou Stir-fry | ⭐ | [查看 / View](recipes/home-style/杭州小炒.md) |
 
+### 素食 | Vegetarian
+
+| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
+|------|------|-------------------|---------------|
+| 地三鲜 | Di San Xian | ⭐ | [查看 / View](recipes/vegetarian/地三鲜.md) |
+| 蒜蓉西兰花 | Garlic Broccoli | ⭐ | [查看 / View](recipes/vegetarian/蒜蓉西兰花.md) |
+| 皮蛋豆腐 | Century Egg Tofu | ⭐ | [查看 / View](recipes/vegetarian/皮蛋豆腐.md) |
+
+### 甜品 | Desserts
+
+| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
+|------|------|-------------------|---------------|
+| 芒果糯米饭 | Mango Sticky Rice | ⭐ | [查看 / View](recipes/desserts/芒果糯米饭.md) |
+| 红豆汤 | Red Bean Soup | ⭐ | [查看 / View](recipes/desserts/红豆汤.md) |
+| 鸡蛋布丁 | Egg Pudding | ⭐ | [查看 / View](recipes/desserts/鸡蛋布丁.md) |
+
+### 早餐 | Breakfast
+
+| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
+|------|------|-------------------|---------------|
+| 皮蛋瘦肉粥 | Century Egg Congee | ⭐ | [查看 / View](recipes/breakfast/皮蛋瘦肉粥.md) |
+| 鸡蛋饼 | Chinese Egg Pancake | ⭐ | [查看 / View](recipes/breakfast/鸡蛋饼.md) |
+| 法式吐司 | French Toast | ⭐ | [查看 / View](recipes/breakfast/法式吐司.md) |
+
 > ⭐ = 新手友好，主流超市食材即可 | Beginner-friendly, mainstream store ingredients
 > ⭐⭐ = 需要亚洲超市或网购部分食材 | Some items need Asian market or online order
 > ⭐⭐⭐ = 挑战级，食材较难找 | Advanced — hard-to-source ingredients
@@ -383,8 +440,11 @@
 
 | 指南 / Guide | 说明 / Description | 链接 / Link |
 |-------------|-------------------|-------------|
-| 美国超市采购指南 / Supermarket Shopping Guide | Trader Joe's、Costco、Walmart 等各超市食材清单 / Store-by-store ingredient lists | [查看 / View](guides/american-substitutions.md) |
-| 厨房装备指南 / Kitchen Equipment Guide | 必买清单、工具替代、宿舍党指南 / Must-haves, tool substitutes, dorm cooking tips | [查看 / View](guides/kitchen-tools.md) |
+| 美国超市采购指南 / Supermarket Shopping Guide | 各超市食材清单 / Store-by-store ingredient lists | [查看 / View](guides/american-substitutions.md) |
+| 厨房装备指南 / Kitchen Equipment Guide | 必买清单、工具替代、宿舍党指南 / Must-haves, tools, dorm tips | [查看 / View](guides/kitchen-tools.md) |
+| 一周饮食计划 / Weekly Meal Plans | 3个方案：忙碌周、Meal Prep、极限省钱 / 3 plans: busy, prep, ultra-budget | [查看 / View](guides/meal-plan.md) |
+| 万能购物清单 / Shopping Lists | 新手入门包、月度常备、Costco/TJ's 攻略 / Starter kit, monthly, store guides | [查看 / View](guides/shopping-list.md) |
+| 常见问题 / FAQ | 翻车急救、食材替代、工具选择 / Troubleshooting, substitutions, equipment | [查看 / View](FAQ.md) |
 
 > 详细列出 **Trader Joe's、Target、Whole Foods、Costco、Walmart** 各超市能买到的中国菜食材，亚洲超市必买清单，以及 Amazon/Weee!/Yami 网购推荐。附新手一次采购清单。
 >
@@ -400,7 +460,9 @@ Hangzhoucai/
 ├── LICENSE
 ├── guides/
 │   ├── american-substitutions.md   # 超市采购指南 / Shopping guide
-│   └── kitchen-tools.md           # 厨房装备指南 / Kitchen equipment guide
+│   ├── kitchen-tools.md           # 厨房装备指南 / Kitchen equipment guide
+│   ├── meal-plan.md               # 一周饮食计划 / Weekly meal plans
+│   └── shopping-list.md           # 万能购物清单 / Shopping lists
 ├── images/
 │   ├── classics/                   # 经典菜品图片 / Classic dish photos
 │   ├── one-pot/                    # 一锅出图片 / One-pot photos
@@ -414,6 +476,9 @@ Hangzhoucai/
     ├── quick/                      # 快手菜 / Quick meals (6)
     ├── global/                     # 国际料理 / Global cuisine (5)
     ├── home-style/                 # 家常菜 / Home-style dishes (3)
+    ├── vegetarian/                 # 素食 / Vegetarian (3)
+    ├── desserts/                   # 甜品 / Desserts (3)
+    ├── breakfast/                  # 早餐 / Breakfast (3)
     └── snacks/                     # 小吃点心 / Snacks & dim sum (3)
 ```
 
