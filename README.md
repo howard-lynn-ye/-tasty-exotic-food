@@ -16,7 +16,8 @@
   <a href="#素食--vegetarian"><img src="https://img.shields.io/badge/素食-Veggie-lightgreen?style=for-the-badge" alt="Vegetarian"></a>
   <a href="#甜品--desserts"><img src="https://img.shields.io/badge/甜品-Desserts-hotpink?style=for-the-badge" alt="Desserts"></a>
   <a href="#早餐--breakfast"><img src="https://img.shields.io/badge/早餐-Breakfast-gold?style=for-the-badge" alt="Breakfast"></a>
-  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-37-brightgreen?style=for-the-badge" alt="Recipes"></a>
+  <a href="#创意融合--fusion"><img src="https://img.shields.io/badge/🤖 AI原创-Fusion-blueviolet?style=for-the-badge" alt="Fusion"></a>
+  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-42-brightgreen?style=for-the-badge" alt="Recipes"></a>
   <a href="guides/american-substitutions.md"><img src="https://img.shields.io/badge/🇺🇸-超市采购指南-blue?style=for-the-badge" alt="US Guide"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"></a>
 </p>
@@ -27,19 +28,16 @@
 
 这是一份专为**在美留学生**准备的中国菜复刻指南。我们知道留学生活最难熬的不是 GPA，是想家时那口吃不到的味道。
 
-本项目收录**杭州经典菜、一锅出、快手菜**等多种类型，涵盖浙菜、川菜等多个菜系。每道菜谱都包含：
+本项目收录**中国经典菜、一锅出、快手菜、国际料理、AI 原创融合菜**等多种类型，涵盖浙菜、川菜、粤菜、日韩泰意墨等多国菜系。每道菜谱都包含：
 
 - **中英双语**的详细步骤 | Bilingual step-by-step instructions
 - **美国超市食材替代方案** — Trader Joe's、Costco、Walmart、Target、Whole Foods | American supermarket substitution tips
-- **新手友好**的难度标注和入门推荐 | Beginner-friendly difficulty ratings
+- **时间+成本+标签** — 每道菜都标注准备时间、人均费用和分类 | Time, cost, and tags for every recipe
+- **AI 原创菜** — Claude AI 根据风味科学设计的独创菜谱 | Original recipes designed by Claude AI using flavor science
 
-*This is a Chinese cooking guide made for **international students in America**. We know the hardest part of studying abroad isn't the coursework — it's missing the flavors of home.*
+*This is a food guide for **international students in America**. We know the hardest part of studying abroad isn't the coursework — it's missing the flavors of home.*
 
-*This project covers **Hangzhou classics, one-pot meals, quick weeknight dishes**, and more — spanning Zhejiang, Sichuan, and beyond. Every recipe includes bilingual instructions, American supermarket tips, and beginner guidance.*
-
-> **为什么从杭州菜开始？** 杭帮菜以**清鲜、脆嫩、爽滑**著称，注重原汁原味，讲究时令食材，善用绍兴黄酒、西湖醋、龙井茶等本地特产入菜。历史可追溯至南宋时期，是浙江菜系的精华。
->
-> **Why start with Hangzhou?** Hangzhou cuisine — a crown jewel of China's Eight Great Culinary Traditions — is celebrated for its freshness, crispness, and delicate flavors. Dating back to the Southern Song Dynasty, it uses signature ingredients like Shaoxing wine, Chinkiang vinegar, and Longjing tea.
+*This project covers **Chinese classics, one-pot meals, quick weeknight dishes, global cuisine, and AI-original fusion recipes** — spanning Zhejiang, Sichuan, Japanese, Korean, Thai, Italian, Mexican, and beyond. Every recipe includes bilingual instructions, American supermarket tips, and time/cost metadata.*
 
 ---
 
@@ -54,7 +52,7 @@
 | 1 | 读 [超市采购指南](guides/american-substitutions.md#新手推荐--where-to-start) / Read the [Shopping Guide](guides/american-substitutions.md#新手推荐--where-to-start) | 了解去哪家超市买什么，一次采购搞定 / Learn what to buy and where — one trip, done |
 | 2 | 先做 [番茄炒蛋](recipes/quick/番茄炒蛋.md) 或 [蛋炒饭](recipes/quick/蛋炒饭.md) / Start with [Tomato Egg](recipes/quick/番茄炒蛋.md) or [Fried Rice](recipes/quick/蛋炒饭.md) | 3种食材，10分钟，零失败 / 3 ingredients, 10 min, zero chance of failure |
 | 3 | 试试 [番茄鸡蛋面](recipes/one-pot/番茄鸡蛋面.md) 或 [可乐鸡翅](recipes/quick/可乐鸡翅.md) / Try [Tomato Egg Noodles](recipes/one-pot/番茄鸡蛋面.md) or [Cola Wings](recipes/quick/可乐鸡翅.md) | 一锅出，暖胃又解馋 / One-pot comfort food |
-| 4 | 探索更多菜谱 ↓ / Explore more recipes below ↓ | 慢慢解锁全部37道菜！ / Unlock all 37 dishes! |
+| 4 | 探索更多菜谱 ↓ / Explore more recipes below ↓ | 慢慢解锁全部42道菜！ / Unlock all 42 dishes! |
 
 ---
 
@@ -316,6 +314,19 @@
 
 ---
 
+## 创意融合 | Fusion (🤖 AI Original)
+
+| 菜名 | Dish | 特色 / Highlight | 菜谱 / Recipe |
+|------|------|-----------------|---------------|
+| 老干妈意面 | Lao Gan Ma Pasta | TikTok 爆款 | [查看 / View](recipes/fusion/老干妈意面.md) |
+| 酱油黄油拌饭 | Soy Butter Rice | 深夜治愈，3种食材 | [查看 / View](recipes/fusion/酱油黄油拌饭.md) |
+| 味噌焦糖三文鱼 | Miso Caramel Salmon | 🤖 AI 风味科学设计 | [查看 / View](recipes/fusion/味噌焦糖三文鱼.md) |
+| 花椒蜂蜜烤鸡翅 | Sichuan Honey Wings | 🤖 麻+甜味觉对比增强 | [查看 / View](recipes/fusion/花椒蜂蜜烤鸡翅.md) |
+| 芝士泡面锅 | Cheese Ramen Upgrade | 🤖 cacio e pepe 同原理 | [查看 / View](recipes/fusion/芝士泡面锅.md) |
+| 辣炒Spam饭 | Spicy Spam Fried Rice | 🤖 蛋炒饭叛逆升级版 | [查看 / View](recipes/fusion/辣炒Spam饭.md) |
+
+---
+
 ## 素食 | Vegetarian
 
 | 菜名 | Dish | 时间 | 菜谱 / Recipe |
@@ -406,6 +417,17 @@
 | 糖醋排骨 | Sweet & Sour Spare Ribs | ⭐ | [查看 / View](recipes/home-style/糖醋排骨.md) |
 | 杭州小炒 | Hangzhou Stir-fry | ⭐ | [查看 / View](recipes/home-style/杭州小炒.md) |
 
+### 创意融合 | Fusion (🤖 AI Original)
+
+| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
+|------|------|-------------------|---------------|
+| 老干妈意面 | Lao Gan Ma Pasta | ⭐ | [查看 / View](recipes/fusion/老干妈意面.md) |
+| 酱油黄油拌饭 | Soy Butter Rice | ⭐ | [查看 / View](recipes/fusion/酱油黄油拌饭.md) |
+| 味噌焦糖三文鱼 | Miso Caramel Salmon | ⭐ | [查看 / View](recipes/fusion/味噌焦糖三文鱼.md) |
+| 花椒蜂蜜烤鸡翅 | Sichuan Honey Wings | ⭐ | [查看 / View](recipes/fusion/花椒蜂蜜烤鸡翅.md) |
+| 芝士泡面锅 | Cheese Ramen Upgrade | ⭐ | [查看 / View](recipes/fusion/芝士泡面锅.md) |
+| 辣炒Spam饭 | Spicy Spam Fried Rice | ⭐ | [查看 / View](recipes/fusion/辣炒Spam饭.md) |
+
 ### 素食 | Vegetarian
 
 | 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
@@ -476,6 +498,7 @@ Hangzhoucai/
     ├── quick/                      # 快手菜 / Quick meals (6)
     ├── global/                     # 国际料理 / Global cuisine (5)
     ├── home-style/                 # 家常菜 / Home-style dishes (3)
+    ├── fusion/                     # 创意融合 / AI Fusion (5)
     ├── vegetarian/                 # 素食 / Vegetarian (3)
     ├── desserts/                   # 甜品 / Desserts (3)
     ├── breakfast/                  # 早餐 / Breakfast (3)
@@ -486,9 +509,9 @@ Hangzhoucai/
 
 ## 贡献 | Contributing
 
-欢迎所有留学生贡献你家乡的菜谱！不限于杭州菜，任何中国菜系都欢迎。
+欢迎所有留学生贡献你的菜谱！中国菜、国际料理、创意融合菜都欢迎。
 
-Contributions welcome! Not limited to Hangzhou cuisine — recipes from any Chinese regional cuisine are appreciated.
+Contributions welcome! Chinese dishes, global cuisine, creative fusion — all are appreciated.
 
 **贡献指南 | Contribution Guidelines:**
 
