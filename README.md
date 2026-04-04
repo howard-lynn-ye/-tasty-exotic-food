@@ -17,6 +17,25 @@
 
 ---
 
+> **想家了？** 那就自己做一顿吧。这个项目是为每一个在美国想念家乡味道的留学生准备的。
+>
+> **Homesick?** Cook yourself a taste of home. This project is for every international student in America who misses the flavors they grew up with.
+
+---
+
+## 快速导航 | Quick Navigation
+
+| 我想... | I want to... | 去这里 / Go here |
+|---------|-------------|-----------------|
+| 🔰 刚学做饭，从零开始 | Just learning to cook | [番茄炒蛋 — 3种食材10分钟](recipes/quick/番茄炒蛋.md) |
+| 🏛️ 探索5000年古代美食 | Explore ancient food history | [217道古代菜全目录](recipes/ancient/README.md) |
+| 🤖 看AI设计的疯狂融合菜 | See AI-designed fusion recipes | [233道AI原创全目录](recipes/fusion/README.md) |
+| 🛒 第一次去美国超市买什么 | First grocery trip in America | [超市采购指南](guides/american-substitutions.md) |
+| 📖 浏览全部518道菜 | Browse all 518 recipes | [完整索引](recipes/INDEX.md) |
+| 🧪 了解风味科学原理 | Learn flavor science | [风味科学指南](guides/flavor-science.md) |
+
+---
+
 ## 为什么这个项目独特 | What Makes This Unique
 
 | | 特色 | Feature |
@@ -362,104 +381,25 @@
 
 ---
 
-## 完整菜单 | Full Menu
+## 全部518道菜 | All 518 Recipes
 
-### 经典名菜 | Classics
+> **📖 [查看完整索引 / View Full Index →](recipes/INDEX.md)**
+>
+> 按分类浏览 | Browse by category:
 
-| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------------|---------------|
-| 西湖醋鱼 | West Lake Fish in Vinegar Gravy | ⭐⭐ | [查看 / View](recipes/classics/西湖醋鱼.md) |
-| 东坡肉 | Dongpo Braised Pork | ⭐ | [查看 / View](recipes/classics/东坡肉.md) |
-| 龙井虾仁 | Stir-fried Shrimp with Longjing Tea | ⭐⭐ | [查看 / View](recipes/classics/龙井虾仁.md) |
-| 叫化童鸡 | Beggar's Chicken | ⭐⭐ | [查看 / View](recipes/classics/叫化童鸡.md) |
-| 宋嫂鱼羹 | Sister Song's Fish Soup | ⭐ | [查看 / View](recipes/classics/宋嫂鱼羹.md) |
-| 西湖莼菜汤 | West Lake Water Shield Soup | ⭐⭐⭐ | [查看 / View](recipes/classics/西湖莼菜汤.md) |
-| 杭州酱鸭 | Hangzhou Soy-Braised Duck | ⭐⭐ | [查看 / View](recipes/classics/杭州酱鸭.md) |
-
-### 小吃点心 | Snacks
-
-| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------------|---------------|
-| 干炸响铃 | Crispy Tofu Skin Rolls | ⭐⭐ | [查看 / View](recipes/snacks/干炸响铃.md) |
-| 片儿川 | Pian'er Chuan Noodles | ⭐⭐ | [查看 / View](recipes/snacks/片儿川.md) |
-| 葱包桧 | Scallion Pancake Rolls | ⭐⭐ | [查看 / View](recipes/snacks/葱包桧.md) |
-
-### 一锅出 | One-Pot Meals
-
-| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------------|---------------|
-| 番茄鸡蛋面 | Tomato Egg Noodle Soup | ⭐ | [查看 / View](recipes/one-pot/番茄鸡蛋面.md) |
-| 咖喱鸡饭 | Curry Chicken Rice | ⭐ | [查看 / View](recipes/one-pot/咖喱鸡饭.md) |
-| 酸辣汤 | Hot & Sour Soup | ⭐ | [查看 / View](recipes/one-pot/酸辣汤.md) |
-| 红烧牛腩 | Braised Beef Brisket | ⭐⭐ | [查看 / View](recipes/one-pot/红烧牛腩.md) |
-
-### 快手菜 | Quick Meals
-
-| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------------|---------------|
-| 番茄炒蛋 | Tomato & Egg Stir-fry | ⭐ | [查看 / View](recipes/quick/番茄炒蛋.md) |
-| 麻婆豆腐 | Mapo Tofu | ⭐ | [查看 / View](recipes/quick/麻婆豆腐.md) |
-| 宫保鸡丁 | Kung Pao Chicken | ⭐ | [查看 / View](recipes/quick/宫保鸡丁.md) |
-| 蛋炒饭 | Egg Fried Rice | ⭐ | [查看 / View](recipes/quick/蛋炒饭.md) |
-| 可乐鸡翅 | Cola Chicken Wings | ⭐ | [查看 / View](recipes/quick/可乐鸡翅.md) |
-| 凉拌黄瓜 | Smashed Cucumber Salad | ⭐ | [查看 / View](recipes/quick/凉拌黄瓜.md) |
-
-### 国际料理 | Global Cuisine
-
-| 菜名 | Dish | 国家 / Origin | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------|-------------------|---------------|
-| 日式牛丼 | Gyudon | 日本 Japan | ⭐ | [查看 / View](recipes/global/日式牛丼.md) |
-| 韩式部队锅 | Budae Jjigae | 韩国 Korea | ⭐ | [查看 / View](recipes/global/韩式部队锅.md) |
-| 意式番茄肉酱面 | Spaghetti Bolognese | 意大利 Italy | ⭐ | [查看 / View](recipes/global/意式番茄肉酱面.md) |
-| 泰式炒河粉 | Pad Thai | 泰国 Thailand | ⭐⭐ | [查看 / View](recipes/global/泰式炒河粉.md) |
-| 墨西哥鸡肉卷 | Burrito Bowl | 墨西哥 Mexico | ⭐ | [查看 / View](recipes/global/墨西哥鸡肉卷.md) |
-
-### 家常菜 | Home-Style
-
-| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------------|---------------|
-| 油焖春笋 | Braised Spring Bamboo Shoots | ⭐ | [查看 / View](recipes/home-style/油焖春笋.md) |
-| 糖醋排骨 | Sweet & Sour Spare Ribs | ⭐ | [查看 / View](recipes/home-style/糖醋排骨.md) |
-| 杭州小炒 | Hangzhou Stir-fry | ⭐ | [查看 / View](recipes/home-style/杭州小炒.md) |
-
-### 创意融合 | Fusion (🤖 AI Original)
-
-| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------------|---------------|
-| 老干妈意面 | Lao Gan Ma Pasta | ⭐ | [查看 / View](recipes/fusion/老干妈意面.md) |
-| 酱油黄油拌饭 | Soy Butter Rice | ⭐ | [查看 / View](recipes/fusion/酱油黄油拌饭.md) |
-| 味噌焦糖三文鱼 | Miso Caramel Salmon | ⭐ | [查看 / View](recipes/fusion/味噌焦糖三文鱼.md) |
-| 花椒蜂蜜烤鸡翅 | Sichuan Honey Wings | ⭐ | [查看 / View](recipes/fusion/花椒蜂蜜烤鸡翅.md) |
-| 芝士泡面锅 | Cheese Ramen Upgrade | ⭐ | [查看 / View](recipes/fusion/芝士泡面锅.md) |
-| 辣炒Spam饭 | Spicy Spam Fried Rice | ⭐ | [查看 / View](recipes/fusion/辣炒Spam饭.md) |
-
-### 素食 | Vegetarian
-
-| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------------|---------------|
-| 地三鲜 | Di San Xian | ⭐ | [查看 / View](recipes/vegetarian/地三鲜.md) |
-| 蒜蓉西兰花 | Garlic Broccoli | ⭐ | [查看 / View](recipes/vegetarian/蒜蓉西兰花.md) |
-| 皮蛋豆腐 | Century Egg Tofu | ⭐ | [查看 / View](recipes/vegetarian/皮蛋豆腐.md) |
-
-### 甜品 | Desserts
-
-| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------------|---------------|
-| 芒果糯米饭 | Mango Sticky Rice | ⭐ | [查看 / View](recipes/desserts/芒果糯米饭.md) |
-| 红豆汤 | Red Bean Soup | ⭐ | [查看 / View](recipes/desserts/红豆汤.md) |
-| 鸡蛋布丁 | Egg Pudding | ⭐ | [查看 / View](recipes/desserts/鸡蛋布丁.md) |
-
-### 早餐 | Breakfast
-
-| 菜名 | Dish | 难度 / Difficulty | 菜谱 / Recipe |
-|------|------|-------------------|---------------|
-| 皮蛋瘦肉粥 | Century Egg Congee | ⭐ | [查看 / View](recipes/breakfast/皮蛋瘦肉粥.md) |
-| 鸡蛋饼 | Chinese Egg Pancake | ⭐ | [查看 / View](recipes/breakfast/鸡蛋饼.md) |
-| 法式吐司 | French Toast | ⭐ | [查看 / View](recipes/breakfast/法式吐司.md) |
-
-> ⭐ = 新手友好，主流超市食材即可 | Beginner-friendly, mainstream store ingredients
-> ⭐⭐ = 需要亚洲超市或网购部分食材 | Some items need Asian market or online order
-> ⭐⭐⭐ = 挑战级，食材较难找 | Advanced — hard-to-source ingredients
+| 分类 | Category | 数量 | 精选 / Highlights | 链接 |
+|------|----------|------|------------------|------|
+| 🏛️ 古代名菜 | Ancient | **217** | 古埃及扁豆汤、唐代胡饼、佛跳墙、维京蜜酒炖肉... | [全部 →](recipes/ancient/README.md) |
+| 🤖 AI原创 | Fusion | **233** | 老干妈意面、味噌焦糖三文鱼、花椒巧克力蛋糕... | [全部 →](recipes/fusion/README.md) |
+| ⭐ 经典名菜 | Classics | 7 | 东坡肉、西湖醋鱼、龙井虾仁 | [浏览 →](recipes/classics/) |
+| 🌍 国际料理 | Global | 14 | 牛丼、Pad Thai、Bibimbap、Pho | [浏览 →](recipes/global/) |
+| ⚡ 快手菜 | Quick | 12 | 番茄炒蛋、蛋炒饭、宫保鸡丁 | [浏览 →](recipes/quick/) |
+| 🍲 一锅出 | One-Pot | 7 | 酸菜鱼、红烧牛腩、咖喱鸡饭 | [浏览 →](recipes/one-pot/) |
+| 🏠 家常菜 | Home | 7 | 鱼香肉丝、回锅肉、水煮肉片 | [浏览 →](recipes/home-style/) |
+| 🥟 小吃 | Snacks | 6 | 锅贴、葱油饼、韭菜盒子 | [浏览 →](recipes/snacks/) |
+| 🥦 素食 | Veggie | 5 | 地三鲜、虎皮青椒 | [浏览 →](recipes/vegetarian/) |
+| 🍰 甜品 | Desserts | 5 | 芒果糯米饭、黑芝麻汤圆 | [浏览 →](recipes/desserts/) |
+| 🌅 早餐 | Breakfast | 5 | 皮蛋瘦肉粥、鸡蛋饼 | [浏览 →](recipes/breakfast/) |
 
 ---
 
@@ -531,16 +471,38 @@ Contributions welcome! Chinese dishes, global cuisine, creative fusion — all a
 
 ---
 
-## 图片来源 | Image Credits
+## 喜欢这个项目？| Love This Project?
 
-本项目使用的菜品图片来自 Wikimedia Commons，采用 CC BY-SA 4.0 协议。
+<p align="center">
 
-Dish photos are sourced from Wikimedia Commons under the CC BY-SA 4.0 license.
+**如果这个项目帮到了你，请帮我们一个忙：**
+
+*If this project helped you, please do us a favor:*
+
+</p>
+
+| 行动 | Action | 为什么 / Why |
+|------|--------|-------------|
+| ⭐ **Star 这个仓库** | **Star this repo** | 让更多留学生发现这个项目 / Help more students find us |
+| 🍴 **Fork** | **Fork it** | 保存到你自己的收藏 / Save to your own collection |
+| 📤 **分享给朋友** | **Share with friends** | 发到微信群/朋友圈/留学生论坛 / WeChat, forums, social media |
+| 📝 **贡献菜谱** | **[Contribute a recipe](CONTRIBUTING.md)** | 加入你家乡的味道 / Add your hometown's flavors |
+| 🐛 **报告问题** | **[Report an issue](https://github.com/howard-lynn-ye/-tasty-exotic-food/issues)** | 帮我们变得更好 / Help us improve |
 
 ---
 
+## 图片来源 | Image Credits
+
+菜品图片来自 Wikimedia Commons (CC BY-SA 4.0)。 | Photos from Wikimedia Commons (CC BY-SA 4.0).
+
 ## 许可证 | License
 
-本项目采用 [MIT License](LICENSE) 开源。
+[MIT License](LICENSE) — 自由使用、修改和分享。 | Free to use, modify, and share.
 
-This project is licensed under the [MIT License](LICENSE).
+---
+
+<p align="center">
+  <em>Made with ❤️ for every international student who misses the taste of home.</em><br>
+  <em>为每一个想家的留学生，用心制作。</em><br><br>
+  <strong>Powered by Claude AI × Human Creativity</strong>
+</p>
