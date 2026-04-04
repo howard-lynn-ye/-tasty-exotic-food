@@ -17,7 +17,7 @@
   <a href="#甜品--desserts"><img src="https://img.shields.io/badge/甜品-Desserts-hotpink?style=for-the-badge" alt="Desserts"></a>
   <a href="#早餐--breakfast"><img src="https://img.shields.io/badge/早餐-Breakfast-gold?style=for-the-badge" alt="Breakfast"></a>
   <a href="#创意融合--fusion"><img src="https://img.shields.io/badge/🤖 AI原创-Fusion-blueviolet?style=for-the-badge" alt="Fusion"></a>
-  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-100-brightgreen?style=for-the-badge" alt="Recipes"></a>
+  <a href="recipes/"><img src="https://img.shields.io/badge/菜谱总数-518-brightgreen?style=for-the-badge" alt="Recipes"></a>
   <a href="guides/american-substitutions.md"><img src="https://img.shields.io/badge/🇺🇸-超市采购指南-blue?style=for-the-badge" alt="US Guide"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"></a>
 </p>
@@ -52,7 +52,7 @@
 | 1 | 读 [超市采购指南](guides/american-substitutions.md#新手推荐--where-to-start) / Read the [Shopping Guide](guides/american-substitutions.md#新手推荐--where-to-start) | 了解去哪家超市买什么，一次采购搞定 / Learn what to buy and where — one trip, done |
 | 2 | 先做 [番茄炒蛋](recipes/quick/番茄炒蛋.md) 或 [蛋炒饭](recipes/quick/蛋炒饭.md) / Start with [Tomato Egg](recipes/quick/番茄炒蛋.md) or [Fried Rice](recipes/quick/蛋炒饭.md) | 3种食材，10分钟，零失败 / 3 ingredients, 10 min, zero chance of failure |
 | 3 | 试试 [番茄鸡蛋面](recipes/one-pot/番茄鸡蛋面.md) 或 [可乐鸡翅](recipes/quick/可乐鸡翅.md) / Try [Tomato Egg Noodles](recipes/one-pot/番茄鸡蛋面.md) or [Cola Wings](recipes/quick/可乐鸡翅.md) | 一锅出，暖胃又解馋 / One-pot comfort food |
-| 4 | 探索更多菜谱 ↓ / Explore more recipes below ↓ | 慢慢解锁全部100道菜！ / Unlock all 100 dishes! |
+| 4 | 探索更多菜谱 ↓ / Explore more recipes below ↓ | 慢慢解锁全部518道菜！ / Unlock all 518 dishes! |
 
 ---
 
