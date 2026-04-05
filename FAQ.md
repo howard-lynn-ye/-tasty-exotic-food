@@ -8,10 +8,35 @@
 
 ## 目录 | Table of Contents
 
+- [关于项目](#关于项目--about-this-project)
 - [新手问题](#新手问题--beginner-questions)
 - [食材问题](#食材问题--ingredient-questions)
 - [工具问题](#工具问题--equipment-questions)
 - [翻车急救](#翻车急救--troubleshooting)
+
+---
+
+## 关于项目 | About This Project
+
+### 这个项目有多少道菜？| How many recipes?
+
+**518道菜谱**，分布在11个分类中。其中最大的两个分类是：
+- **217道古代名菜** — 跨越5000年，从古埃及(2000BC)到拿破仑时代(1800AD)
+- **233道AI原创融合菜** — Claude AI用风味科学设计的独创组合
+
+*518 recipes across 11 categories. The two largest are 217 ancient recipes (5000 years of food history) and 233 AI-original fusion recipes (designed by Claude AI using flavor science).*
+
+### 古代菜谱是真的可以做的吗？| Are the ancient recipes actually cookable?
+
+是的！每道古代菜谱都经过现代化改良，使用美国超市能买到的食材。我们保留了历史风味的核心，但替换了已不可得的古代食材。每道菜都附有"替代食材"表格。
+
+*Yes! Every ancient recipe has been modernized with ingredients available at American supermarkets. We preserve the historical flavor profile but substitute unavailable ancient ingredients. Each recipe includes a substitutions table.*
+
+### AI菜谱是怎么设计的？| How are AI recipes designed?
+
+我们的AI原创菜基于[风味科学原理](guides/flavor-science.md)设计：分析味觉维度（甜咸酸苦鲜麻）、跨文化桥梁食材、美拉德反应、脂溶性原理等，确保每个创意组合在化学层面是可行的。
+
+*Our AI recipes are designed using [flavor science principles](guides/flavor-science.md): analyzing taste dimensions, cross-cultural bridge ingredients, Maillard reactions, fat solubility, etc. to ensure each creative combination works at a chemical level.*
 
 ---
 

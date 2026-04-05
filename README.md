@@ -80,7 +80,7 @@
 
 ---
 
-## 经典名菜 | Classic Dishes
+## 经典名菜 | Classic Dishes (7道)
 
 <table>
   <tr>
@@ -211,7 +211,7 @@
 
 ---
 
-## 快手菜 | Quick Meals
+## 快手菜 | Quick Meals (12道) — [查看全部 →](recipes/quick/)
 
 <table>
   <tr>
@@ -264,7 +264,7 @@
 
 ---
 
-## 国际料理 | Global Cuisine
+## 国际料理 | Global Cuisine (14道) — [查看全部 →](recipes/global/)
 
 <table>
   <tr>
@@ -308,7 +308,7 @@
 
 ---
 
-## 家常菜 | Home-Style
+## 家常菜 | Home-Style (7道) — [查看全部 →](recipes/home-style/)
 
 <table>
   <tr>
@@ -338,16 +338,18 @@
 
 ---
 
-## 创意融合 | Fusion (🤖 AI Original)
+## 🤖 AI原创融合菜 | AI Fusion (233道精选)
+
+> Claude AI 用风味科学设计的独创菜谱，每道附分子级解析。**[查看全部233道 →](recipes/fusion/README.md)**
 
 | 菜名 | Dish | 特色 / Highlight | 菜谱 / Recipe |
 |------|------|-----------------|---------------|
-| 老干妈意面 | Lao Gan Ma Pasta | TikTok 爆款 | [查看 / View](recipes/fusion/老干妈意面.md) |
-| 酱油黄油拌饭 | Soy Butter Rice | 深夜治愈，3种食材 | [查看 / View](recipes/fusion/酱油黄油拌饭.md) |
-| 味噌焦糖三文鱼 | Miso Caramel Salmon | 🤖 AI 风味科学设计 | [查看 / View](recipes/fusion/味噌焦糖三文鱼.md) |
-| 花椒蜂蜜烤鸡翅 | Sichuan Honey Wings | 🤖 麻+甜味觉对比增强 | [查看 / View](recipes/fusion/花椒蜂蜜烤鸡翅.md) |
-| 芝士泡面锅 | Cheese Ramen Upgrade | 🤖 cacio e pepe 同原理 | [查看 / View](recipes/fusion/芝士泡面锅.md) |
-| 辣炒Spam饭 | Spicy Spam Fried Rice | 🤖 蛋炒饭叛逆升级版 | [查看 / View](recipes/fusion/辣炒Spam饭.md) |
+| 老干妈意面 | Lao Gan Ma Pasta | TikTok 爆款 | [查看](recipes/fusion/老干妈意面.md) |
+| 味噌焦糖三文鱼 | Miso Caramel Salmon | 味噌鲜×红糖焦糖化 | [查看](recipes/fusion/味噌焦糖三文鱼.md) |
+| 花椒巧克力熔岩蛋糕 | Sichuan Choc Lava Cake | 麻×苦甜对比增强 | [查看](recipes/fusion/花椒巧克力熔岩蛋糕.md) |
+| 酱油冰淇淋 | Soy Sauce Ice Cream | 鲜咸×甜冷 | [查看](recipes/fusion/酱油冰淇淋.md) |
+| 泡菜汉堡 | Kimchi Smash Burger | 韩式发酵×美式汉堡 | [查看](recipes/fusion/泡菜汉堡.md) |
+| 咖啡红烧肉 | Coffee Braised Pork | 咖啡苦×红烧甜咸 | [查看](recipes/fusion/咖啡红烧肉.md) |
 
 ---
 
