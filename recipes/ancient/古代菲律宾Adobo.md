@@ -1,4 +1,5 @@
 # 古代菲律宾Adobo | Ancient Filipino Adobo (~1500AD)
+<p align="center">  <img src="../../images/ancient/古代菲律宾Adobo.svg" width="500" alt="古代菲律宾Adobo"></p>
 
 > ⏱ 准备10分+烹饪45分 | 💰~$10/份 | 🏷️ 古代名菜、菲律宾
 
