@@ -144,242 +144,61 @@
 
 ---
 
-## 小吃点心 | Snacks
+## 精选菜谱 | Featured Recipes
+
+### ⭐ 经典名菜 | Classics — [查看全部7道 →](recipes/classics/)
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="recipes/snacks/干炸响铃.md">
-        <img src="images/snacks/ganzha-xiangling.jpg" width="280" alt="干炸响铃"><br>
-        <b>干炸响铃</b><br>
-        <sub>Crispy Tofu Skin Rolls</sub>
+      <a href="recipes/classics/东坡肉.md">
+        <img src="images/classics/dongpo-rou.jpg" width="260" alt="东坡肉"><br>
+        <b>东坡肉</b><br>
+        <sub>Dongpo Braised Pork</sub>
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="recipes/snacks/片儿川.md">
-        <img src="images/snacks/pianerchuan.jpg" width="280" alt="片儿川"><br>
-        <b>片儿川</b><br>
-        <sub>Pian'er Chuan Noodles</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="recipes/snacks/葱包桧.md">
-        <img src="images/snacks/congbaohui.jpg" width="280" alt="葱包桧"><br>
-        <b>葱包桧</b><br>
-        <sub>Scallion Pancake Rolls</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 一锅出 | One-Pot Meals
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="recipes/one-pot/番茄鸡蛋面.md">
-        <img src="images/one-pot/fanqie-jidan-mian.jpg" width="200" alt="番茄鸡蛋面"><br>
-        <b>番茄鸡蛋面</b><br>
-        <sub>Tomato Egg Noodle Soup</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="recipes/one-pot/咖喱鸡饭.md">
-        <img src="images/one-pot/gali-jifan.jpg" width="200" alt="咖喱鸡饭"><br>
-        <b>咖喱鸡饭</b><br>
-        <sub>Curry Chicken Rice</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="recipes/one-pot/酸辣汤.md">
-        <img src="images/one-pot/suanlatang.jpg" width="200" alt="酸辣汤"><br>
-        <b>酸辣汤</b><br>
-        <sub>Hot & Sour Soup</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="recipes/one-pot/红烧牛腩.md">
-        <img src="images/one-pot/hongshao-niunan.jpg" width="200" alt="红烧牛腩"><br>
-        <b>红烧牛腩</b><br>
-        <sub>Braised Beef Brisket</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 快手菜 | Quick Meals (12道) — [查看全部 →](recipes/quick/)
-
-<table>
-  <tr>
     <td align="center" width="33%">
       <a href="recipes/quick/番茄炒蛋.md">
-        <img src="images/quick/fanqie-chaodan.jpg" width="280" alt="番茄炒蛋"><br>
+        <img src="images/quick/fanqie-chaodan.jpg" width="260" alt="番茄炒蛋"><br>
         <b>番茄炒蛋</b><br>
-        <sub>Tomato & Egg Stir-fry</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="recipes/quick/麻婆豆腐.md">
-        <img src="images/quick/mapo-doufu.jpg" width="280" alt="麻婆豆腐"><br>
-        <b>麻婆豆腐</b><br>
-        <sub>Mapo Tofu</sub>
+        <sub>Tomato & Egg (10min)</sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="recipes/quick/宫保鸡丁.md">
-        <img src="images/quick/gongbao-jiding.jpg" width="280" alt="宫保鸡丁"><br>
+        <img src="images/quick/gongbao-jiding.jpg" width="260" alt="宫保鸡丁"><br>
         <b>宫保鸡丁</b><br>
         <sub>Kung Pao Chicken</sub>
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="recipes/quick/蛋炒饭.md">
-        <img src="images/quick/dan-chaofan.jpg" width="280" alt="蛋炒饭"><br>
-        <b>蛋炒饭</b><br>
-        <sub>Egg Fried Rice</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="recipes/quick/可乐鸡翅.md">
-        <img src="images/quick/kele-jichi.jpg" width="280" alt="可乐鸡翅"><br>
-        <b>可乐鸡翅</b><br>
-        <sub>Cola Chicken Wings</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="recipes/quick/凉拌黄瓜.md">
-        <img src="images/quick/liangban-huanggua.jpg" width="280" alt="凉拌黄瓜"><br>
-        <b>凉拌黄瓜</b><br>
-        <sub>Smashed Cucumber Salad</sub>
-      </a>
-    </td>
-  </tr>
 </table>
 
----
+### 🤖 AI原创融合 | AI Fusion — **[查看全部233道 →](recipes/fusion/README.md)**
 
-## 国际料理 | Global Cuisine (14道) — [查看全部 →](recipes/global/)
+> Claude AI 用风味科学设计的独创菜谱，每道附分子级解析。
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <a href="recipes/global/日式牛丼.md">
-        <img src="images/global/gyudon.jpg" width="180" alt="日式牛丼"><br>
-        <b>日式牛丼</b><br>
-        <sub>Gyudon (Japan)</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="recipes/global/韩式部队锅.md">
-        <img src="images/global/budae-jjigae.jpg" width="180" alt="韩式部队锅"><br>
-        <b>韩式部队锅</b><br>
-        <sub>Budae Jjigae (Korea)</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="recipes/global/意式番茄肉酱面.md">
-        <img src="images/global/bolognese.jpg" width="180" alt="意式番茄肉酱面"><br>
-        <b>意式肉酱面</b><br>
-        <sub>Bolognese (Italy)</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="recipes/global/泰式炒河粉.md">
-        <img src="images/global/pad-thai.jpg" width="180" alt="泰式炒河粉"><br>
-        <b>泰式炒河粉</b><br>
-        <sub>Pad Thai (Thailand)</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="recipes/global/墨西哥鸡肉卷.md">
-        <img src="images/global/burrito-bowl.jpg" width="180" alt="墨西哥鸡肉卷"><br>
-        <b>墨西哥鸡肉卷</b><br>
-        <sub>Burrito Bowl (Mexico)</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+| 菜名 | Dish | 为什么好吃 / Why It Works |
+|------|------|-------------------------|
+| 老干妈意面 | [Lao Gan Ma Pasta](recipes/fusion/老干妈意面.md) | TikTok 爆款，辣酱×意面 |
+| 花椒巧克力熔岩蛋糕 | [Sichuan Choc Lava Cake](recipes/fusion/花椒巧克力熔岩蛋糕.md) | 麻觉放大甜味感知 |
+| 酱油冰淇淋 | [Soy Sauce Ice Cream](recipes/fusion/酱油冰淇淋.md) | 鲜咸×甜冷 = 味觉爆炸 |
+| 咖啡红烧肉 | [Coffee Braised Pork](recipes/fusion/咖啡红烧肉.md) | 咖啡苦×红烧甜咸 |
+| 泡菜汉堡 | [Kimchi Smash Burger](recipes/fusion/泡菜汉堡.md) | 韩式发酵×美式经典 |
+| 味噌焦糖三文鱼 | [Miso Caramel Salmon](recipes/fusion/味噌焦糖三文鱼.md) | 鲜味×焦糖化×Omega-3 |
 
----
+### 🏛️ 古代名菜 | Ancient — **[查看全部217道 →](recipes/ancient/README.md)**
 
-## 家常菜 | Home-Style (7道) — [查看全部 →](recipes/home-style/)
+> 跨越5000年，从古埃及到清代宫廷，50+个文明的味觉记忆。
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="recipes/home-style/油焖春笋.md">
-        <img src="images/home-style/youmen-chunsun.jpg" width="280" alt="油焖春笋"><br>
-        <b>油焖春笋</b><br>
-        <sub>Braised Spring Bamboo Shoots</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="recipes/home-style/糖醋排骨.md">
-        <img src="images/home-style/tangcu-paigu.jpg" width="280" alt="糖醋排骨"><br>
-        <b>糖醋排骨</b><br>
-        <sub>Sweet & Sour Spare Ribs</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="recipes/home-style/杭州小炒.md">
-        <img src="images/home-style/hangzhou-xiaochao.jpg" width="280" alt="杭州小炒"><br>
-        <b>杭州小炒</b><br>
-        <sub>Hangzhou Stir-fry</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤖 AI原创融合菜 | AI Fusion (233道精选)
-
-> Claude AI 用风味科学设计的独创菜谱，每道附分子级解析。**[查看全部233道 →](recipes/fusion/README.md)**
-
-| 菜名 | Dish | 特色 / Highlight | 菜谱 / Recipe |
-|------|------|-----------------|---------------|
-| 老干妈意面 | Lao Gan Ma Pasta | TikTok 爆款 | [查看](recipes/fusion/老干妈意面.md) |
-| 味噌焦糖三文鱼 | Miso Caramel Salmon | 味噌鲜×红糖焦糖化 | [查看](recipes/fusion/味噌焦糖三文鱼.md) |
-| 花椒巧克力熔岩蛋糕 | Sichuan Choc Lava Cake | 麻×苦甜对比增强 | [查看](recipes/fusion/花椒巧克力熔岩蛋糕.md) |
-| 酱油冰淇淋 | Soy Sauce Ice Cream | 鲜咸×甜冷 | [查看](recipes/fusion/酱油冰淇淋.md) |
-| 泡菜汉堡 | Kimchi Smash Burger | 韩式发酵×美式汉堡 | [查看](recipes/fusion/泡菜汉堡.md) |
-| 咖啡红烧肉 | Coffee Braised Pork | 咖啡苦×红烧甜咸 | [查看](recipes/fusion/咖啡红烧肉.md) |
-
----
-
-## 素食 | Vegetarian
-
-| 菜名 | Dish | 时间 | 菜谱 / Recipe |
-|------|------|------|---------------|
-| 地三鲜 | Di San Xian | 25min | [查看 / View](recipes/vegetarian/地三鲜.md) |
-| 蒜蓉西兰花 | Garlic Broccoli | 10min | [查看 / View](recipes/vegetarian/蒜蓉西兰花.md) |
-| 皮蛋豆腐 | Century Egg Tofu | 5min | [查看 / View](recipes/vegetarian/皮蛋豆腐.md) |
-
----
-
-## 甜品 | Desserts
-
-| 菜名 | Dish | 时间 | 菜谱 / Recipe |
-|------|------|------|---------------|
-| 芒果糯米饭 | Mango Sticky Rice | 35min | [查看 / View](recipes/desserts/芒果糯米饭.md) |
-| 红豆汤 | Red Bean Soup | 60min | [查看 / View](recipes/desserts/红豆汤.md) |
-| 鸡蛋布丁 | Egg Pudding | 20min | [查看 / View](recipes/desserts/鸡蛋布丁.md) |
-
----
-
-## 早餐 | Breakfast
-
-| 菜名 | Dish | 时间 | 菜谱 / Recipe |
-|------|------|------|---------------|
-| 皮蛋瘦肉粥 | Century Egg Congee | 45min | [查看 / View](recipes/breakfast/皮蛋瘦肉粥.md) |
-| 鸡蛋饼 | Chinese Egg Pancake | 8min | [查看 / View](recipes/breakfast/鸡蛋饼.md) |
-| 法式吐司 | French Toast | 8min | [查看 / View](recipes/breakfast/法式吐司.md) |
+| 菜名 | Dish | 年代 | 文明 |
+|------|------|------|------|
+| 古埃及扁豆汤 | [Egyptian Lentil Soup](recipes/ancient/古埃及扁豆汤.md) | ~2000BC | 古埃及 |
+| 古巴比伦羊肉饼 | [Babylonian Lamb Pie](recipes/ancient/古巴比伦羊肉饼.md) | ~1700BC | 巴比伦 |
+| 唐代胡饼 | [Tang Sesame Flatbread](recipes/ancient/唐代胡饼.md) | ~700AD | 大唐 |
+| 佛跳墙 | [Buddha Jumps Over Wall](recipes/ancient/佛跳墙简易版.md) | ~1876 | 清代 |
+| 维京蜜酒炖肉 | [Viking Mead Stew](recipes/ancient/维京蜜酒炖肉.md) | ~900AD | 维京 |
+| 拿破仑行军鸡 | [Napoleon's Chicken](recipes/ancient/拿破仑行军鸡.md) | ~1800 | 法国 |
 
 ---
 
